@@ -53,7 +53,7 @@ export default function Navbar() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end lg:items-center lg:gap-4">
           <ThemeToggle />
           <Button asChild className="bg-orange-600 hover:bg-orange-700 text-white">
-            <Link href="https://wa.me/5551234567?text=Hi! I'd like to place an order">Order Now</Link>
+            <Link href="https://wa.me/7358878515?text=Hi! I'd like to place an order">Order Now</Link>
           </Button>
         </div>
       </nav>
@@ -95,7 +95,7 @@ export default function Navbar() {
                 </div>
                 <div className="py-6">
                   <Button asChild className="w-full bg-orange-600 hover:bg-orange-700 text-white">
-                    <Link href="https://wa.me/5551234567?text=Hi! I'd like to place an order">Order Now</Link>
+                    <Link href="https://wa.me/7358878515?text=Hi! I'd like to place an order">Order Now</Link>
                   </Button>
                 </div>
               </div>

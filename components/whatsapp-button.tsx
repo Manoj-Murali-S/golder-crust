@@ -45,7 +45,7 @@ export default function WhatsAppButton() {
 
   const handleWhatsAppOrder = () => {
     const message = generateWhatsAppMessage()
-    const whatsappUrl = `https://wa.me/5551234567?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/7358878515?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
     setIsCartOpen(false)
   }

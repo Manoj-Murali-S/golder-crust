@@ -104,7 +104,7 @@ export default function TodaysSpecial() {
                     variant="outline"
                     className="border-orange-200 dark:border-orange-800 hover:bg-orange-50 dark:hover:bg-orange-900/20 bg-transparent"
                   >
-                    <Link href={`https://wa.me/5551234567?text=Hi! I'd like to order today's special: ${special.item}`}>
+                    <Link href={`https://wa.me/7358878515?text=Hi! I'd like to order today's special: ${special.item}`}>
                       WhatsApp Order
                     </Link>
                   </Button>

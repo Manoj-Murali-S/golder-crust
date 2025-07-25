@@ -146,7 +146,7 @@ export default function CloudKitchenPage() {
 
           <div className="text-center">
             <Button asChild size="lg" className="bg-orange-600 hover:bg-orange-700 text-white">
-              <Link href="https://wa.me/5551234567?text=Hi! I'd like to know more about your cloud kitchen services">
+              <Link href="https://wa.me/7358878515?text=Hi! I'd like to know more about your cloud kitchen services">
                 Get Started Today
               </Link>
             </Button>

@@ -57,7 +57,7 @@ export default function HeroSection() {
             variant="outline"
             className="border-white text-white hover:bg-white hover:text-gray-900 px-8 py-4 text-lg bg-transparent"
           >
-            <Link href="https://wa.me/5551234567?text=Hi! I'd like to place an order">Order Now</Link>
+            <Link href="https://wa.me/7358878515?text=Hi! I'd like to place an order">Order Now</Link>
           </Button>
         </div>
 
